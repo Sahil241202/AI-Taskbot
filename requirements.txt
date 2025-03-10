@@ -1,0 +1,4 @@
+sendgrid
+python-dotenv
+apscheduler
+google-generativeai
